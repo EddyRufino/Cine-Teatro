@@ -3,10 +3,10 @@ node_modules
 /dist
 /.firebase
 
-.firebase.json
-.firestore.indexes.json
+/firebase.json
+/firestore.indexes.json
 
-package-lock.json
+/package-lock.json
 
 # local env files
 .env.local
